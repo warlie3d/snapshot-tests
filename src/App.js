@@ -1,4 +1,4 @@
-import GitHubCard from './Components/GitHubCard'
+import GitHubCard from './GitHubCard/GitHubCard'
 import './App.css';
 
 function App() {

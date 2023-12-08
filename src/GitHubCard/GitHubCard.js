@@ -9,7 +9,7 @@ function GitHubCard() {
       <Card.Body>
         <Card.Title>warlie3d</Card.Title>
         <Card.Text>
-         Looking For Job,please halp
+         A highly dedicated and motivated software engineer and a fast learner.
         </Card.Text>
         <Button variant="primary">Go somewhere</Button>
       </Card.Body>

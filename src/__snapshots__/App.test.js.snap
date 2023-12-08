@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="pic.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        warlie3d
+      </div>
+      <p
+        className="card-text"
+      >
+        A highly dedicated and motivated software engineer and a fast learner.
+      </p>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        type="button"
+      >
+        Go somewhere
+      </button>
+    </div>
+  </div>
+</div>
+`;
